@@ -1,0 +1,13 @@
+# Images
+*.png
+
+# MATLAB figures
+*.fig
+
+# Office
+*.pptx
+*.docx
+*.doc
+
+
+
